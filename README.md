@@ -18,10 +18,10 @@ This is a REST API deployed on AWS using the Serverless Framework. It exists to 
 
 **Screenshots:**
 
-1. Landing page for application.
-2. Expense logs.
-3. New expense entry.
+1. Sample selector.
+2. Main view (partially filled out).
+3. Save/send view.
    ![image](https://user-images.githubusercontent.com/42954670/101989659-9f7d0200-3c67-11eb-93c4-25410b0bf531.png)
 
-4. Sample Google Sheets layout.
-   ![image](https://user-images.githubusercontent.com/42954670/101989673-b6235900-3c67-11eb-82cd-780664ec2c30.JPG)
+4. Sample saved image...tripleshot latte, anyone?
+   ![image](https://user-images.githubusercontent.com/42954670/101989792-6a24e400-3c68-11eb-9ef5-f6c6da3742b3.png)
